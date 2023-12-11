@@ -1,6 +1,5 @@
 import openai
 import instructor
-from getpass import getpass
 from openai import OpenAI
 import time
 openaisecretkey = "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"
