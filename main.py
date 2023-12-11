@@ -2,7 +2,7 @@ import openai
 import instructor
 from openai import OpenAI
 import time
-openaisecretkey = "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"
+openaisecretkey = ""
 client = OpenAI(api_key=openaisecretkey)
 
 
